@@ -31,6 +31,9 @@ Status: das erste Video ist [online](https://www.youtube.com/watch?v=fYrFEIoWgqM
    *  [Angular Docs](https://angular.io/docs)
    *  [ECMAScript](https://www.ecma-international.org/publications-and-standards/standards/)
    *  [TypeScript](https://www.typescriptlang.org/)
+   *  [Vergleich: React vs. Angular vs. Vue](https://academind.com/tutorials/angular-vs-react-vs-vue-my-thoughts/)
+
+
 
 
 
