@@ -29,7 +29,7 @@ Status: das erste Video ist [online](https://www.youtube.com/watch?v=fYrFEIoWgqM
 
 *  Video 01 [Angular - Theoretische Einführung 01 (Historie)](https://www.youtube.com/watch?v=fYrFEIoWgqM)
    *  [Angular Docs](https://angular.io/docs)
-   *  [ECMAScript(https://www.ecma-international.org/publications-and-standards/standards/)
+   *  [ECMAScript](https://www.ecma-international.org/publications-and-standards/standards/)
    *  [TypeScript](https://www.typescriptlang.org/)
 
 
