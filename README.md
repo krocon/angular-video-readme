@@ -1,7 +1,8 @@
-# Einführung 01 in Angular 11
+# Einführung in Angular 11
 
 Beschreibung der Videoreihe 'Angular - Theoretische Einführung'
 
+## Inhaltsverzeichnis
 
 *  Angular Historie ([05:05](https://youtu.be/fYrFEIoWgqM?t=125))
 *  Javascript Historie ([03:10](https://youtu.be/fYrFEIoWgqM?t=190))
@@ -22,5 +23,14 @@ Beschreibung der Videoreihe 'Angular - Theoretische Einführung'
 *  Angular Service
 *  Angular Module
 
-
 Status: das erste Video ist [online](https://www.youtube.com/watch?v=fYrFEIoWgqM)
+
+## Links
+
+*  Video 01 [Angular - Theoretische Einführung 01 (Historie)](https://www.youtube.com/watch?v=fYrFEIoWgqM)
+   *  [Angular Docs](https://angular.io/docs)
+   *  [ECMAScript(https://www.ecma-international.org/publications-and-standards/standards/)
+   *  [TypeScript](https://www.typescriptlang.org/)
+
+
+
