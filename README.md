@@ -23,7 +23,7 @@ Beschreibung der Videoreihe 'Angular - Theoretische Einführung'
 *  Angular Service
 *  Angular Module
 
-Status: das erste Video ist [online](https://www.youtube.com/watch?v=fYrFEIoWgqM)
+Status: die ersten beiden Videos sind online: [Angular Historie](https://www.youtube.com/watch?v=fYrFEIoWgqM), [Angular CLI](https://www.youtube.com/watch?v=xYxAyjoPcoA)
 
 ## Links
 
