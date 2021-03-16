@@ -6,8 +6,8 @@ Beschreibung der Videoreihe 'Angular - Theoretische Einführung'
 
 *  Angular Historie ([05:05](https://youtu.be/fYrFEIoWgqM?t=125))
 *  Javascript Historie ([03:10](https://youtu.be/fYrFEIoWgqM?t=190))
-*  node.js
-*  Angular CLI
+*  node.js ([02:15](https://youtu.be/xYxAyjoPcoA?t=15))
+*  Angular CLI ([02:17](https://youtu.be/xYxAyjoPcoA?t=137))
 *  Single Page Application
 *  TypeScript
 *  Angular Komponenten
