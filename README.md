@@ -32,7 +32,12 @@ Status: die ersten beiden Videos sind online: [Angular Historie](https://www.you
    *  [ECMAScript](https://www.ecma-international.org/publications-and-standards/standards/)
    *  [TypeScript](https://www.typescriptlang.org/)
    *  [Vergleich: React vs. Angular vs. Vue](https://academind.com/tutorials/angular-vs-react-vs-vue-my-thoughts/)
-*  Video 02: kommt demnächst
+*  Video 02: [Angular - Theoretische Einführung 02 (Angular CLI)](https://www.youtube.com/watch?v=xYxAyjoPcoA)
+   *  [node.js](https://nodejs.org/de/)
+   *  [npm CLI](https://docs.npmjs.com/cli/v7/commands/npm)
+   *  [Angular CLI](https://cli.angular.io/)
+   *  [Angular CLI Dokumenation](https://angular.io/cli)
+*  Video 03: kommt demnächst
 
 
 
