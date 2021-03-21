@@ -37,7 +37,10 @@ Status: die ersten beiden Videos sind online: [Angular Historie](https://www.you
    *  [npm CLI](https://docs.npmjs.com/cli/v7/commands/npm)
    *  [Angular CLI](https://cli.angular.io/)
    *  [Angular CLI Dokumenation](https://angular.io/cli)
-*  Video 03: kommt demnächst
-
-
-
+*  Video 03: [Angular - Theoretische Einführung 03 (SPA, PWA)](https://youtu.be/a6zg3_tOzWk)
+   *  [SPA](https://de.wikipedia.org/wiki/Single-Page-Webanwendung)
+   *  [PWA, wiki](https://de.wikipedia.org/wiki/Progressive_Web_App), [PWA, MDN](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
+   *  [Add to Home screen, MDN](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Add_to_home_screen), [Add to Home screen, app-entwickler](https://app-entwickler-verzeichnis.de/app-news/13-programmierung-a-developer-tools/637-add-to-homescreen-progressive-web-apps-vorteile-und-nachteile)
+   *  [Making PWAs work offline with Service workers](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Offline_Service_workers)
+   *  [The building blocks of responsive design](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Responsive/responsive_design_building_blocks)
+*  Video 04: kommt demnächst
