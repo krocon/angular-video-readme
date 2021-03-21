@@ -10,7 +10,7 @@ Beschreibung der Videoreihe 'Angular - Theoretische Einführung'
 *  Javascript Historie ([03:10](https://youtu.be/fYrFEIoWgqM?t=190))
 *  node.js ([02:15](https://youtu.be/xYxAyjoPcoA?t=15))
 *  Angular CLI ([02:17](https://youtu.be/xYxAyjoPcoA?t=137))
-*  Single Page Application ([SPA](https://youtu.be/a6zg3_tOzWk?t=15)), ([PWA](https://youtu.be/a6zg3_tOzWk?t=173))
+*  Single Page Application ([SPA](https://youtu.be/IUYM34CfpUQ?t=15)), ([PWA](https://youtu.be/IUYM34CfpUQ?t=173))
 *  TypeScript
 *  Angular Komponenten
    *  Templatesyntax
@@ -39,7 +39,7 @@ Status: die ersten beiden Videos sind online: [Angular Historie](https://www.you
    *  [npm CLI](https://docs.npmjs.com/cli/v7/commands/npm)
    *  [Angular CLI](https://cli.angular.io/)
    *  [Angular CLI Dokumenation](https://angular.io/cli)
-*  Video 03: [Angular - Theoretische Einführung 03 (SPA, PWA)](https://youtu.be/a6zg3_tOzWk)
+*  Video 03: [Angular - Theoretische Einführung 03 (SPA, PWA)](https://youtu.be/IUYM34CfpUQ)
    *  [SPA](https://de.wikipedia.org/wiki/Single-Page-Webanwendung)
    *  [PWA, wiki](https://de.wikipedia.org/wiki/Progressive_Web_App)
    *  [PWA, MDN](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
