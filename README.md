@@ -8,7 +8,7 @@ Beschreibung der Videoreihe 'Angular - Theoretische Einführung'
 *  Javascript Historie ([03:10](https://youtu.be/fYrFEIoWgqM?t=190))
 *  node.js ([02:15](https://youtu.be/xYxAyjoPcoA?t=15))
 *  Angular CLI ([02:17](https://youtu.be/xYxAyjoPcoA?t=137))
-*  Single Page Application
+*  Single Page Application ([SPA](https://youtu.be/a6zg3_tOzWk?t=15)), ([PWA](https://youtu.be/a6zg3_tOzWk?t=173))
 *  TypeScript
 *  Angular Komponenten
    *  Templatesyntax
